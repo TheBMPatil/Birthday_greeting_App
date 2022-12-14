@@ -37,5 +37,5 @@
 [WP-shield]: https://img.shields.io/badge/-Whatsapp-black.svg?style=for-the-badge&logo=Whatsapp&colorB=555
 [linkedin-url]:  https://www.linkedin.com/in/bhagvat-mutthe-000b961ba/
 [Instagram-url]: https://instagram.com/bm_patil_
-[Twitter-url]: @TheBMPAtil
+[Twitter-url]:
 [Wp-url]: https://wa.me/+918408921072
